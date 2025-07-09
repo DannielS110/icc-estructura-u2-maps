@@ -42,7 +42,7 @@ public class Empleado implements Comparable<Empleado> {
 
     @Override
     public int hashCode() {
-        return id + name.hashCode() + position.hashCode();
+        return id + name.hashCode();
     }
 
    

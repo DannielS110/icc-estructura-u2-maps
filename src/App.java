@@ -11,9 +11,9 @@ public class App {
         System.out.println("Nombre: Daniel Sanchez"); /// Cambiar por su nombre
         runMapExamlpe();
 
-        runEmpleadoExample();
+       // runEmpleadoExample();
 
-        runEjerccios();
+        //runEjerccios();
         System.out.println("=====================================");
 
     }
@@ -28,6 +28,8 @@ public class App {
         mapa.runTreeMap();
         System.out.println("----HashMap con Objetos----");
         mapa.runHasMapObj();
+        System.out.println("----TreeMap con Objetos----");
+        mapa.runTreeMapObj();
         
     }
 
