@@ -1,5 +1,5 @@
-Práctica de Mapas en Java
-
+🗺️ Práctica de Mapas en Java
+-------------------------------------------------------------------------
 Descripción
 
 Este proyecto demuestra el uso de diferentes tipos de mapas en Java, específicamente HashMap, LinkedHashMap y TreeMap, mostrando sus características y diferencias en el manejo de datos.
@@ -9,7 +9,7 @@ Autor
 Daniel Sanchez
 
 Estructura del Proyecto
-
+----------------------------------------------------------------------------
 Implementaciones de Mapas
 
 1. HashMap
@@ -133,7 +133,11 @@ java{
 
 }
 
+-------------------------------------------------------------------------
 
-Ejecucion version 1
+## 🚀 Ejecución
+ version 1
+
+![image](https://github.com/user-attachments/assets/b2761bf3-d762-4618-adf7-ffc48551a588)
 
 
