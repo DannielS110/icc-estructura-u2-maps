@@ -144,4 +144,7 @@ java{
 
 ![image](https://github.com/user-attachments/assets/b2761bf3-d762-4618-adf7-ffc48551a588)
 
+version 1.2
+
+![image](https://github.com/user-attachments/assets/08891737-dc41-42a1-ab7d-a61a2cddba0a)
 
