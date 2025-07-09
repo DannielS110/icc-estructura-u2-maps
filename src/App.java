@@ -1,26 +1,34 @@
 import controllers.Ejercicios;
 import controllers.EmpleadoContoller;
 import controllers.Mapa;
-
 import models.Empleado;
 
 public class App {
     public static void main(String[] args) throws Exception {
+        System.out.println("=====================================");
 
         System.out.println("----Practica Mapas----");
-        System.out.println("Nombre: Juan Perez"); /// Cambiar por su nombre
-        // Ejecuta el ejemplo de uso de HashMap con ejemplos sencillos
+        System.out.println("Nombre: Daniel Sanchez"); /// Cambiar por su nombre
         runMapExamlpe();
 
-        // // Ejecuta el ejemplo de gestión de empleados usando HashMap
-        // runEmpleadoExample();
+        runEmpleadoExample();
 
-        // // Ejecuta los ejercicios de sumatoria y anagramas
-        // runEjerccios();
+        runEjerccios();
+        System.out.println("=====================================");
+
     }
 
     private static void runMapExamlpe() {
         Mapa mapa = new Mapa();
+        System.out.println("----HashMap----");
+        mapa.runHashMap();
+        System.out.println("----LinkedHashMap----");
+        mapa.runLinkedHashMap();
+        System.out.println("----TreeMap----");
+        mapa.runTreeMap();
+        System.out.println("----HashMap con Objetos----");
+        mapa.runHasMapObj();
+        
     }
 
     private static void runEmpleadoExample() {
@@ -31,4 +39,5 @@ public class App {
         throw new UnsupportedOperationException("Not implemented yet");
 
     }
+    
 }
