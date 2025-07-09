@@ -8,6 +8,10 @@ Autor
 
 Daniel Sanchez
 
+Profesor 
+
+ING. Pablo Torres
+
 Estructura del Proyecto
 ----------------------------------------------------------------------------
 Implementaciones de Mapas
